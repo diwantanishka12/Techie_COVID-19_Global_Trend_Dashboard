@@ -24,16 +24,26 @@ Ipywidgets: For creating interactive widgets in Jupyter notebooks.
 The dataset used for analysis is "https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress", which includes country-wise vaccination data.
 
 # _**Execution Steps:**_
-1. Install the required Python libraries:
+1. Install the required Python libraries.
 
-   "pip install pandas matplotlib seaborn ipywidgets"
+2. Load the Dataset:
+   Import the dataset ("/content/country_vaccinations.csv") into your Python environment using pandas.
 
-3. Load the dataset and perform data preprocessing, including handling missing values and converting columns to appropriate formats.
+4. Data Preprocessing:
+   Convert date columns to datetime format.
 
-4. Run the analysis scripts to generate insights and visualizations.
+5. Run Analysis Scripts:
+   Calculate global and country-wise vaccination statistics.
 
-5. Save the processed data for further use.
+   Generate summary statistics or insights.
 
+   Create visualizations using matplotlib and seaborn to illustrate trends.
+
+6. Save Processed Data:
+   Export the cleaned dataset for further use
+
+7. View Results:
+   Interpret the generated output (visualizations, summaries) to derive insights from the vaccination data.
 # _**Summary of Results:**_
 Total vaccinations globally were calculated.
 
