@@ -6,6 +6,8 @@ Diwan Tanishka (KU2407U061)
 
 Darshkumar Patel (KU2407U040)
 
+Dhruvi Kotadia (KU2407U050)
+
 # _**Objective of the Project:**_
 This project aims to analyze global vaccination data to derive insights such as total vaccinations, country-wise vaccination trends, and other relevant metrics.
 
